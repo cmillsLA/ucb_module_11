@@ -10,4 +10,4 @@ After running predictions on models created from the sample used car data, I hav
 
 Based on these findings one data model suggests sports cars: Chevy Corvette or Porsche and trucks: Dodge Ram series, Toyota Tacoma & Tundra as well as the Chevy Silverado had the highest values.  While the other model predicts Mercedes-Benz specifically the G series and SL to have the highest price point.
 
-The full data analysis can be reviewed here: https://github.com/cmillsLA/ucb_module_11/blob/main/prompt.ipynb
+The full data analysis can be reviewed here: https://github.com/cmillsLA/ucb_module_11/blob/main/prompt_II.ipynb
